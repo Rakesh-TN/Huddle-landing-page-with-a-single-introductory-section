@@ -2,7 +2,7 @@
 
 body{
     font-family: "Open Sans", sans-serif;
-    background-image: url('/Assets/bg-desktop.svg');
+    background-image: url('/Assets/bg-desktop.png');
     background-size: cover;
     background-color: hsl(257, 40%, 49%);
     color: #fff;
@@ -79,7 +79,7 @@ span:hover{
 @media screen and (max-width: 480px){
 
     body{
-        background-image: url('/Assets/bg-mobile.svg');
+        background-image: url('/Assets/bg-mobile.png');
         background-repeat: no-repeat;
         background-size: cover;
         
